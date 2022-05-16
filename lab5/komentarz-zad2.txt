@@ -1,0 +1,1 @@
+Maksymalna wartość różnicy interpolowanych funkcji szybko zbiega przy zastosowaniu interpolacji trygonometrycznej dla rosnącej ilości punktów pomiarowych K. Interpolacja wielomianowa cechuje się wolniejszą oraz bardziej nieprzewidywalną zbieżnością. 

@@ -1,0 +1,1 @@
+Interpolacja trygonometryczna w miarę wzrostu ilości punktów pomiarowych osiąga coraz lepszą dokładność. Interpolacja wielomianowa zwieksza dokładność do pewnego momentu, a następnie zaczyna występować problem oscylacji na brzegach wykresu (efekt Rungego). 
